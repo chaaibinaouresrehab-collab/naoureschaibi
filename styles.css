@@ -4,3 +4,7 @@ body { background-color: lightgreen; }
  feature-couleur
 h1 { color: blue; }
 h2 { color: green; }
+h2 { color: white; }
+h1 {
+  color: red;
+}
